@@ -1,12 +1,12 @@
 {
-  "name": "projetoaplicado",
+  "name": "meu-projeto",
   "version": "1.0.0",
+  "description": "Projeto Node.js básico com suporte a CI/CD",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "test": "echo \"Nenhum teste configurado\" && exit 0"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "author": "Seu Nome",
+  "license": "MIT"
 }

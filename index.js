@@ -1,1 +1,2 @@
-console.log('Olá, Mundo!');
+// index.js
+console.log('Olá, Mundo! Servidor iniciado...');
