@@ -7,6 +7,9 @@
     "start": "node index.js",
     "test": "echo \"Nenhum teste configurado\" && exit 0"
   },
+  "dependencies": {
+    "express":""
+  },
   "author": "Seu Nome",
   "license": "MIT"
 }
