@@ -4,7 +4,7 @@
   "description": "Projeto Node.js básico com suporte a CI/CD",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node index.js server.js", 
     "test": "echo \"Nenhum teste configurado\" && exit 0"
   },
   "dependencies": {
